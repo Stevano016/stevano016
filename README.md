@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ```yaml
 name        : Stevano Wahyu Al'fandi
@@ -29,7 +29,7 @@ status      : Open to collaborations & freelance projects
 
 ---
 
-## 🌐 Socials
+##  Socials
 
 <div align="center">
 
@@ -41,7 +41,7 @@ status      : Open to collaborations & freelance projects
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 **Languages:**
 
@@ -68,7 +68,7 @@ status      : Open to collaborations & freelance projects
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -81,7 +81,7 @@ status      : Open to collaborations & freelance projects
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -91,7 +91,7 @@ status      : Open to collaborations & freelance projects
 
 ---
 
-## 📈 Activity Graph
+##  Activity Graph
 
 <div align="center">
 
@@ -101,7 +101,7 @@ status      : Open to collaborations & freelance projects
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
@@ -115,7 +115,7 @@ status      : Open to collaborations & freelance projects
 
 ---
 
-## 💬 Random Dev Quote
+##  Random Dev Quote
 
 <div align="center">
 

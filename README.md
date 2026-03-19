@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Automation+Builder;Universitas+Sugeng+Hartono;Always+Learning,+Always+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Automation+Builder;Universitas+Sugeng+Hartono;Always+Learning,+Always+Building" />
 </div>
 
 ---

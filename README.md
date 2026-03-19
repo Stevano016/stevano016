@@ -79,15 +79,6 @@ status      : Open to collaborations & freelance projects
 
 ---
 
-##  GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=stevano016&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ##  Activity Graph
 
@@ -99,17 +90,6 @@ status      : Open to collaborations & freelance projects
 
 ---
 
-##  Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stevano016/stevano016/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stevano016/stevano016/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/stevano016/stevano016/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
 
 ##  Random Dev Quote
 

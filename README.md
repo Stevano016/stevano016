@@ -121,6 +121,7 @@ status      : Open to collaborations & freelance projects
 
 </div>
 
+<br/>
 ---
 
 <div align="center">

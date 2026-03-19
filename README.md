@@ -119,10 +119,10 @@ status      : Open to collaborations & freelance projects
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+<br/>
 </div>
 
 <br/>
----
 
 <div align="center">
 

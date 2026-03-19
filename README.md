@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Stevano Wahyu Al'fandi
 
-### 💻 Developer · 🤖 AI Automation Enthusiast · 🎓 Student & Freelancer
+###  Developer ·  AI Automation Enthusiast ·  Student & Freelancer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Automation+Builder;Always+learning+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -10,25 +10,25 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 Hi! I'm **Stevano Wahyu Al'fandi** — a passionate developer and AI automation enthusiast. I'm currently both studying and working in the tech space, building digital solutions that are efficient, scalable, and smart.
 
-- 🔭 Currently working on **AI automation projects**
-- 🌱 Always exploring new tools, frameworks, and workflows
-- 🤝 Open to collaborations and freelance projects
-- ⚡ Fun fact: I believe automation can free humans to do more creative work
+-  Currently working on **AI automation projects**
+-  Always exploring new tools, frameworks, and workflows
+-  Open to collaborations and freelance projects
+-  Fun fact: I believe automation can free humans to do more creative work
 
 ---
 
-## 🌐 Socials
+##  Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 **Languages:**
 
@@ -54,7 +54,7 @@ Hi! I'm **Stevano Wahyu Al'fandi** — a passionate developer and AI automation 
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -68,7 +68,7 @@ Hi! I'm **Stevano Wahyu Al'fandi** — a passionate developer and AI automation 
 
 ---
 
-## 🔥 Random Dev Quote
+##  Random Dev Quote
 
 <div align="center">
 
@@ -78,7 +78,7 @@ Hi! I'm **Stevano Wahyu Al'fandi** — a passionate developer and AI automation 
 
 ---
 
-## 🐍 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 

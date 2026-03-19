@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:15803d&height=200&section=header&text=Stevano%20Wahyu%20Al'fandi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20AI%20Automation%20%7C%20Student%20%26%20Freelancer&descAlignY=55&descAlign=50" width="100%" />
-</div>
+
 
 <div align="center">
 

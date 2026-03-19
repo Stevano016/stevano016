@@ -1,8 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Stevano%20Wahyu%20Al'fandi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20AI%20Automation%20%7C%20Student%20%26%20Freelancer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Stevano%20Wahyu%20Al%27fandi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20AI%20Automation%20%7C%20Student%20%26%20Freelancer&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2c9e4b&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;AI+Automation+Builder+🤖;Universitas+Sugeng+Hartono+🎓;Always+Learning,+Always+Building+🔥" />
+</div>
+
+---
+
+##  About Me
+
+```yaml
+name        : Stevano Wahyu Al'fandi
+username    : stevano016
+university  : Universitas Sugeng Hartono
+role        : Student & Freelance Developer
+focus       : Full Stack Development & AI Automation
+status      : Open to collaborations & freelance projects
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2c9e4b&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+Automation+Builder+%F0%9F%A4%96;Universitas+Sugeng+Hartono+%F0%9F%8E%93;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Stevano%20Wahyu%20Al'fandi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20AI%20Automation%20%7C%20Student%20%26%20Freelancer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:15803d&height=200&section=header&text=Stevano%20Wahyu%20Al'fandi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20AI%20Automation%20%7C%20Student%20%26%20Freelancer&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
@@ -129,6 +129,6 @@ status      : Open to collaborations & freelance projects
 
 ![Profile Views](https://komarev.com/ghpvc/?username=stevano016&color=2c9e4b&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:15803d&height=100&section=footer" width="100%" />
 
 </div>

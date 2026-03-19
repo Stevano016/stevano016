@@ -1,9 +1,7 @@
 
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2c9e4b&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+Automation+Builder+%F0%9F%A4%96;Universitas+Sugeng+Hartono+%F0%9F%8E%93;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Automation+Builder;Universitas+Sugeng+Hartono;Always+Learning,+Always+Building" />
 </div>
 
 ---
